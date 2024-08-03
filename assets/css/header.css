@@ -1,4 +1,4 @@
-@import url(/assets/css/global.css);
+@import url('global.css');
 
 
 header {
@@ -18,7 +18,7 @@ header::after {
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icones/header.svg');
+    background-image: url('./assets/img/icones/header.svg');
 }
 
 header .foto {
