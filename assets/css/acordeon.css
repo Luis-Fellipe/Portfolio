@@ -108,7 +108,7 @@
     margin: 1rem 0;
 }
 
-.portfolio li .title {
+.portfolio li h3 {
     display: flex;
     align-items: center;
     font-size: 1.25rem;
@@ -116,7 +116,7 @@
     margin-bottom: 0.5rem;
 }
 
-.portfolio li .title.github::before {
+.portfolio li h3.github::before {
     display: inline-block;
     content: "";
     width: 1rem;
@@ -180,6 +180,7 @@
 
 .skills .ferramentas ul li img {
     max-width: 50px;
+    max-height: 60px;
     margin: 0 0.5rem;
 }
 
