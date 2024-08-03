@@ -71,13 +71,9 @@
     ],
     "experiencias": [
         {
-            "nome": "Education Tech Lead ",
-            "descricao": "",
-            "instituicao": "Digital Innovation One (DIO)",
-            "periodo": {
-                "inicio": "03/2021",
-                "fim": "Atualmente"
-            }
+            "nome": "Analista júnior de sistemas / Pharmanexo",
+            "data": "set de 2023 - dez de 2023",
+            "descricao": "Tranalhei por alguns meses na empresa Pharmanexo, atuei como analista de sistemas"
         }
     ]
 }
