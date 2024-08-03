@@ -6,22 +6,22 @@
     "wpp": "(21) 99999-9999",
     "email": "Lfspreal@gmail.com",
     "skills": {
-        "hardSkills": [
+        "ferramentas": [
             {
                 "nome": "Html",
-                "logo": "TODO"
+                "logo": "https://raw.githubusercontent.com/Luis-Fellipe/Portfolio/main/data/imgs/html.png"
             },
             {
                 "nome": "Css",
-                "logo": "TODO"
+                "logo": "https://raw.githubusercontent.com/Luis-Fellipe/Portfolio/main/data/imgs/css.png"
             },
             {
                 "nome": "Javascript",
-                "logo": "TODO"
+                "logo": "https://raw.githubusercontent.com/Luis-Fellipe/Portfolio/main/data/imgs/js.png"
             },
             {
                 "nome": "NodeJs",
-                "logo": "TODO"
+                "logo": "https://raw.githubusercontent.com/Luis-Fellipe/Portfolio/main/data/imgs/nodejs.png"
             }
         ],
         "habilidades": [
