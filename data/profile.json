@@ -1,5 +1,5 @@
 {
-    "name": "Luís Fellipe",
+    "nome": "Luís Fellipe",
     "foto": "https://avatars.githubusercontent.com/u/136206056?v=4",
     "perfil": "Front End Developer",
     "local": "Rio de Janeiro - BR",
@@ -20,10 +20,12 @@
                 "logo": "TODO"
             }
         ],
-        "softSkills": [
-            "Comunicação",
+        "habilidades": [
             "Empatia",
-            "Poder de Sedução Imcomparável"
+            "Comunicação",
+            "Trabalho em equipe",
+            "Flexibilidade",
+            "Organização"
         ]
     },
     "idiomas": [
