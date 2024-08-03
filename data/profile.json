@@ -33,18 +33,8 @@
         ]
     },
     "idiomas": [
-        {
-            "nome": "Português",
-            "nivel": "Nativo"
-        },
-        {
-            "nome": "Inglês",
-            "nivel": "Intermediário"
-        },
-        {
-            "nome": "Espanhol",
-            "nivel": "Básico"
-        }
+        "Português (BR)",
+        "Inglês (Avançado)"
     ],
     "educacao": [
         {
