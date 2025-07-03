@@ -18,7 +18,7 @@ A estrutura do site é construída com HTML, CSS e JavaScript, e os dados são c
 ## 🌐 Acesse Online
 
 Você pode visualizar o portfólio diretamente pelo GitHub Pages:  
-🔗 [luis-fellipe.github.io/Portfolio](https://luis-fellipe.github.io/Portfolio/)
+🔗 [luis-fellipe.github.io/Portfolio](https://luis-fellipe.github.io/portfolio-front-end/)
 
 ---
 
